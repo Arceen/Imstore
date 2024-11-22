@@ -1,4 +1,4 @@
-Single Day Project
+Imstore
 ----------------
 Encode basically any file into image
 First make it binary -> byte -> then save all the byte data as the colors and alpha channels of a PNG image, so that the file can be hosted anywhere.
